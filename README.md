@@ -2,7 +2,7 @@
 
 ## Introduction
 This calculator can support up to three levels of math operations in complex number:
-1. Addition (+), Subtruction (-)
+1. Addition (+), Subtraction (-)
 2. Multiplication (*), Division (/)
 3. Power (^) (Note: power function with complex number as exponent is considered as math error in this program)
 
